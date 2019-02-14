@@ -23,7 +23,7 @@ export class CalculadoraComponent implements OnInit {
    * @return void
    */
 
-   limpa():void{
+   limpar():void{
 
     this.numero1='0';
     this.numero2=null;
@@ -134,4 +134,3 @@ export class CalculadoraComponent implements OnInit {
 }
 
 
-}
